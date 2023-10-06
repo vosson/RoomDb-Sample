@@ -7,12 +7,11 @@
     <string name="edit_title">Title</string>
     <string name="edit_desc">Note</string>
     <string name="edit_pwd">Password</string>
-    <string name="toolbar_pwd">Enter Password</string>
+    <string name="toolbar_pwd">Ввод пароля</string>
     <string name="encrypt">Lock note</string>
     <string name="item_note">View note</string>
     <string name="empty_notes">Once you add some notes\nyou will find it here</string>
-
     <string name="pwd_title">Enter password</string>
-    <string name="error_pwd">Incorrect password</string>
+    <string name="error_pwd">Неверный пароль</string>
 
 </resources>
